@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Rock Paper Scissors game
+<p>Rock Paper Scissors game, implemented in pure JS. When you click on any of the three buttons (rock, paper, scissors), anamation occurs, after which the element you have selected and a randomly selected element by the computer appears on the page. If you win, one point is added to your counter, If the computer wins, then to the computer, and if there is a tie, nobody gets a point.</p>
